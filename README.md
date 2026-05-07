@@ -33,7 +33,7 @@ Available in Dense and MoE architectures that scale from edge to cloud, with Ins
 
 * **Enhanced Multimodal Reasoning**: Excels in STEM/Math—causal analysis and logical, evidence-based answers.
 
-* **Upgraded Visual Recognition**: Broader, higher-quality pretraining is able to “recognize everything”—celebrities, anime, products, landmarks, flora/fauna, etc.
+* **Upgraded Visual Recognition**: Broader, higher-quality pretraining is able to "recognize everything"—celebrities, anime, products, landmarks, flora/fauna, etc.
 
 * **Expanded OCR**: Supports 32 languages (up from 10); robust in low light, blur, and tilt; better with rare/ancient characters and jargon; improved long-document structure parsing.
 
@@ -185,3 +185,7 @@ If you find Qwen3-VL useful in your research, please cite:
 ```
 
 Related project: [DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)
+
+1. related project [DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2)
+2. related project [Aria](https://github.com/rhymes-ai/Aria)
+3. related project [Kimi-VL](https://github.com/MoonshotAI/Kimi-VL)
